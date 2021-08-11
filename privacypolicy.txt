@@ -1,0 +1,3 @@
+This app uses Google's AdMob advertising service.
+We do not collect any information about you or your app usage.
+AdMob's privacy policy is available at https://www.google.com/intl/en/policies/privacy/ 
