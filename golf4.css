@@ -1,0 +1,47 @@
+body { 
+    
+   background: #ffffff ;
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+	background-size: cover;
+	font:14px 'Helvetica Neue', sans-serif;
+    }
+
+
+/* Zebra striping 
+tr:nth-of-type(even) { 
+	background: #ffffff99; 
+	}*/
+
+th { 
+	color: white; 
+	font-weight: bold; 
+	
+	}
+
+td, th { 
+border-radius: 0px 0px 0px 0px;
+	padding: 6px; 
+	border: 1px solid #000000; 
+	text-align: center;
+	
+	}
+
+.main{ 
+border-radius: 0px 0px 0px 0px;
+	padding: 6px; 
+	border: 1px solid #000000; 
+	text-align: center;
+	font-weight: bold;
+	}
+	
+	.holenumber{ 
+border-radius: 0px 0px 0px 0px;
+	padding: 6px; 
+	border: 1px solid #000000; 
+	text-align: center;
+	}
+
+}
