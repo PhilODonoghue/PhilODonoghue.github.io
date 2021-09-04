@@ -1,4 +1,5 @@
-This app uses Google's AdMob advertising service partnered with Facebook ads.
 We at RandomHapps do not collect any information about you or your app usage.
+This app uses Google's AdMob advertising service partnered with the following ad providers.
 AdMob's privacy policy is available at https://www.google.com/intl/en/policies/privacy
 Facebooks privacy policy is available at https://www.facebook.com/about/privacy/update
+Adcolony's privacy policy is available at https://www.adcolony.com/privacy-policy
