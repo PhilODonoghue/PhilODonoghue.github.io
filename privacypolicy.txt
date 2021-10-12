@@ -3,4 +3,3 @@ This app uses Google's AdMob advertising service partnered with the following ad
 AdMob's privacy policy is available at https://www.google.com/intl/en/policies/privacy
 Facebooks privacy policy is available at https://www.facebook.com/about/privacy/update
 Adcolony's privacy policy is available at https://www.adcolony.com/privacy-policy
-Applovin's privacy policy is available at https://www.applovin.com/privacy
