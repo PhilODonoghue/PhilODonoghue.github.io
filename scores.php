@@ -23,7 +23,7 @@
 <?php
 $servername = "localhost";
 $username = "f29507_1";
-$password = "36**09";
+$password = "";
 $dbname = "f29507_pitchandputt";
 
 // Create connection
